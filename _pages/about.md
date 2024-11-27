@@ -10,7 +10,7 @@ redirect_from:
 I'm a Software Engineer with over 5 years of experience in the Microsoft stack, Python, and Django. Skilled in building microservices, RESTful APIs, and cloud-native applications. Proficient in SQL Server, Azure, and integrating CI/CD pipelines. Focused on delivering scalable, high-performance solutions in agile environments with clean, maintainable code.
 
 I hold a Bachelor’s degree in Computer Science (Spring 2020) and two Master’s degrees: one in Artificial Intelligence (Spring 2022) and another in Data Analysis and Visualization (Fall 2024). Additionally, I am the co-author of four research papers published in renowned journals such as IEEE, Springer, and ScienceDirect.
-My research interests focus on **Machine Learning**, particularly its applications in **Software Engineering and Information Security.**
+My research interests focus on **Machine Learning**, particularly its applications in **Data Analysis**, **Software Engineering and Information Security.**
 
 Apart from this, I'm a full-time innovator &#128640;, part-time music listener &#127911; and a part-time procastinator &#127800;.
 
