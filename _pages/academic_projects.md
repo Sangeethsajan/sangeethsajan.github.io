@@ -4,6 +4,19 @@ title: "Academic Projects"
 author_profile: true
 ---
 
+## [Decades of Division: Analyzing Hate Crimes in the USA](https://hate-crime.vercel.app/)
+
+This project comprehensively analyses hate crime data in the United States, leveraging advanced data analysis and visualization techniques to unmask patterns and insights. By utilizing datasets of criminal offenses reported by law enforcement agencies such as the FBI, this study explores the dynamics of hate crimes across racial, religious, gender, and sexual orientation groups.
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+## [NYCHA Electricity consumption Analysis](https://public.tableau.com/views/NYCHAElectricityConsumptionAnalysis/AvgEnergyConsumptionVSCost?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+This Tableau dashboard focuses on the analysis of the electricity consumption of NYCHA buildings from 2010 to 2023. The primary aim of the project is to describe how the usage characteristics change based on
+Boroughs, Cities, and Developments
+
+`May 2024`
+
 ## [A Visualization of the 1857 Revolt](https://sangeethsajan.github.io/DigitalHistory/)
 
 This project presents a cartographic narrative of some of the major events in

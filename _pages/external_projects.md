@@ -4,6 +4,18 @@ title: "Out of School Projects &#128187;"
 author_profile: true
 ---
 
+### [VideoQA](https://videoqa.vercel.app/)
+
+VideoQA is an LLM application that help you created automated flows related to finding answers for your questions based on your vidoes. It comprises of four parts, One google sheet with a link to multiple youtube videos, One google docs with a link to your questions, One google sheet where you want the answers. Additionally, you can add an LLM prompt for fine tuned answers.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+## [AskDoc](https://askdoc-alpha.vercel.app/)
+
+AskDoc is an LLM platform that lets you upload multiple documents and ask questions based on that. As an added functionality, You can select from which document you need the answer from. Additionally, The answers provided will have metadata including sources, page number and file name.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
 ## [OmgDoc](https://omgdoc.in/)
 
 OmgDoc is a platform that connects Doctors and the hospitals majorly for posting the temporary and
